@@ -1,16 +1,30 @@
-## Hi there 👋
+ <div align="center">
 
-<!--
-**wristkyion/wristkyion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm wristkyion 👋
 
-Here are some ideas to get you started:
+**Indie Developer · Building Personal Projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy developing desktop applications, exploring new technologies, and turning ideas into working projects.
+
+[GitHub Profile](https://github.com/wristkyion) · [Arca-Launcher](https://github.com/wristkyion/Arca-Launcher)
+
+</div>
+
+---
+
+### 🚀 Projects
+
+- **[Arca-Launcher](https://github.com/wristkyion/Arca-Launcher)**  
+  A custom Minecraft launcher built with Tauri, Vite, Rust, and TypeScript.
+
+### 🛠️ Technologies
+
+- Rust
+- TypeScript
+- Tauri
+- Vite
+- HTML & CSS
+
+---
+
+*More projects and updates will be added as development continues.*
