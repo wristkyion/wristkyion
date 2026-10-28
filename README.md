@@ -41,8 +41,8 @@ Still a beginner, but full of ideas. Still learning, but always ready to explore
   <a href="https://github.com/wristkyion/Arca-Launcher">Arca-Launcher</a>
 </h3>
 <p align="left">
-  A desktop launcher built with Tauri 2, combining modern web technologies
-  with native capabilities to create a practical desktop experience.
+  A Minecraft launcher built with Tauri 2, combining modern web technologies
+  with native capabilities to create a practical minecraft UI/UX experience.
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
