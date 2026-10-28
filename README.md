@@ -41,8 +41,6 @@ Still a beginner, but full of ideas. Still learning, but always ready to explore
 </a>
 <br clear="left">
 
-<h3>Arca-Launcher</h3>
-
 <p>
   A desktop launcher built with Tauri 2, combining modern web technologies with native capabilities to create a practical desktop experience.
 </p>
