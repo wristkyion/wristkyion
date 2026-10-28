@@ -36,19 +36,22 @@ Still a beginner, but full of ideas. Still learning, but always ready to explore
   <strong>A collection of things I'm building and experimenting with.</strong>
 </p>
 
-<br>
-<h3 align="left">
-  <a href="https://github.com/wristkyion/Arca-Launcher">Arca-Launcher</a>
-</h3>
-<p align="left">
-  A Minecraft launcher built with Tauri 2, combining modern web technologies
-  with native capabilities to create a practical minecraft UI/UX experience.
-</p>
-<p align="left">
+
+<p>
+  <a href="https://github.com/wristkyion/Arca-Launcher">
+    <img src="assets/arca-launcher.png" alt="Arca-Launcher Banner" height="90" align="left">
+  </a>
+
+  <h3>[1] Arca-Launcher</h3>
+  A desktop launcher built with Tauri 2, combining modern web technologies with native capabilities to create a practical desktop experience.
+  
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" alt="Tauri">
-</p>
+  <a href="https://github.com/wristkyion/Arca-Launcher">
+    <img src="https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Explore Repository">
+  </a>
+
 
 ---
 
