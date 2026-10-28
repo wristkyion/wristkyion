@@ -1,4 +1,4 @@
-# wristkyion page's
+# wristkyion page
 
 I'm a beginner programmer and indie developer from Indonesia, with plenty of ideas and projects I'd love to bring to life. I'm still at the beginning of my journey, learning how to turn my ideas into real, functional applications while exploring new technologies and discovering what I'm capable of creating.
 
@@ -36,22 +36,25 @@ Still a beginner, but full of ideas. Still learning, but always ready to explore
   <strong>A collection of things I'm building and experimenting with.</strong>
 </p>
 
+<a href="https://github.com/wristkyion/Arca-Launcher">
+  <img src="assets/arca-launcher.png" alt="Arca-Launcher Banner" height="90" align="left">
+</a>
+<br clear="left">
+
+<h3>Arca-Launcher</h3>
 
 <p>
-  <a href="https://github.com/wristkyion/Arca-Launcher">
-    <img src="assets/arca-launcher.png" alt="Arca-Launcher Banner" height="90" align="left">
-  </a>
-
-  <h3>[1] Arca-Launcher</h3>
   A desktop launcher built with Tauri 2, combining modern web technologies with native capabilities to create a practical desktop experience.
-  
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" alt="Tauri">
   <a href="https://github.com/wristkyion/Arca-Launcher">
     <img src="https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Explore Repository">
   </a>
-
+</p>
 
 ---
 
