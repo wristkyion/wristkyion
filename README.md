@@ -1,4 +1,4 @@
-# wristkyion page
+# wristkyion page's
 
 I'm a beginner programmer and indie developer from Indonesia, with plenty of ideas and projects I'd love to bring to life. I'm still at the beginning of my journey, learning how to turn my ideas into real, functional applications while exploring new technologies and discovering what I'm capable of creating.
 
