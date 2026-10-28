@@ -8,6 +8,8 @@ I'm here to learn, create, experiment, and explore beyond what I already know. W
 
 Still a beginner, but full of ideas. Still learning, but always ready to explore. 🌱
 
+---
+
 <p align="center">
   <strong>Programs &amp; Technologies I'm Learning</strong>
 </p>
