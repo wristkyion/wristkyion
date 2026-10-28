@@ -1,40 +1,60 @@
-# Hey 👋, I'm Kiyoshi Nakano
+# wristkyion page
 
-Indie developer from Indonesia 🇮🇩, building desktop applications and experimenting with software, Linux, and local AI.
+I'm a beginner programmer and indie developer from Indonesia, with plenty of ideas and projects I'd love to bring to life. I'm still at the beginning of my journey, learning how to turn my ideas into real, functional applications while exploring new technologies and discovering what I'm capable of creating.
 
-## ✦ About Me
+Beyond programming, I'm also interested in various creative fields, including animation, video editing, graphic design, and digital art. I'm not perfect at everything I do, but I believe every skill has room to grow, and every creative experiment is another opportunity to improve.
 
-- 💻 Building desktop applications with **Tauri, TypeScript, and Rust**
-- 🛠️ Working on projects like **Arca-Launcher** and **Yomiki Manga Reader**
-- 🧠 Exploring local AI, automation, and application development
-- 🎯 Goal: Build useful software with a clean and thoughtful user experience
-- 🌱 Always learning, experimenting, and improving one project at a time
+I'm here to learn, create, experiment, and explore beyond what I already know. Whether it's building software, creating visual content, or trying something completely new, I want to keep developing my skills and turning my ideas into something meaningful.
 
-## ✦ Tech Stack
+Still a beginner, but full of ideas. Still learning, but always ready to explore. 🌱
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="36" alt="Rust" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" />
+<p align="center">
+  <strong>Programs &amp; Technologies I'm Learning</strong>
 </p>
 
-## ✦ Featured Projects
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="36" alt="Rust" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" />
+</p>
 
-- **[Arca-Launcher](https://github.com/wristkyion/Arca-Launcher)** — A desktop launcher built with Tauri 2.
+---
 
-## ✦ GitHub Statistics
+<p align="center">
+  <strong>A collection of things I'm building and experimenting with.</strong>
+</p>
+
+<br>
+<h3 align="left">
+  <a href="https://github.com/wristkyion/Arca-Launcher">Arca-Launcher</a>
+</h3>
+<p align="left">
+  A desktop launcher built with Tauri 2, combining modern web technologies
+  with native capabilities to create a practical desktop experience.
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" alt="Tauri">
+</p>
+
+---
+
+<p align="center">
+  <strong>Widget</strong>
+</p>
 
 <div data-importer="stats" align="center">
   <img src="./profile/stats.svg" height="150" alt="GitHub statistics" />
@@ -42,14 +62,6 @@ Indie developer from Indonesia 🇮🇩, building desktop applications and exper
   <img src="https://streak-stats.demolab.com?user=wristkyion&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-## ✦ Contribution Snake
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/wristkyion/wristkyion/snake-output/snake.svg" alt="Contribution snake animation" />
-</div>
-
----
-
-<div align="center">
-  <i>"Small steps, meaningful progress."</i>
 </div>
