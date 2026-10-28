@@ -18,12 +18,14 @@ jobs:
 
     steps:
       - name: Generate stats.svg
-        uses: readme-tools/github-readme-stats-action@v1
+        id: stats
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&disable_animations=true&theme=dark&locale=en&hide_border=true
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Push stats.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
