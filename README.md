@@ -1,30 +1,55 @@
- <div align="center">
+# Hey 👋, I'm Kiyoshi Nakano
 
-# Hi, I'm wristkyion 👋
+Indie developer from Indonesia 🇮🇩, building desktop applications and experimenting with software, Linux, and local AI.
 
-**Indie Developer · Building Personal Projects**
+## ✦ About Me
 
-I enjoy developing desktop applications, exploring new technologies, and turning ideas into working projects.
+- 💻 Building desktop applications with **Tauri, TypeScript, and Rust**
+- 🛠️ Working on projects like **Arca-Launcher** and **Yomiki Manga Reader**
+- 🧠 Exploring local AI, automation, and application development
+- 🎯 Goal: Build useful software with a clean and thoughtful user experience
+- 🌱 Always learning, experimenting, and improving one project at a time
 
-[GitHub Profile](https://github.com/wristkyion) · [Arca-Launcher](https://github.com/wristkyion/Arca-Launcher)
+## ✦ Tech Stack
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="36" alt="Rust" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" />
+</p>
+
+## ✦ Featured Projects
+
+- **[Arca-Launcher](https://github.com/wristkyion/Arca-Launcher)** — A desktop launcher built with Tauri 2.
+
+## ✦ GitHub Statistics
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/wristkyion/wristkyion/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/wristkyion/wristkyion/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=wristkyion&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+## ✦ Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wristkyion/wristkyion/snake-output/snake.svg" alt="Contribution snake animation" />
 </div>
 
 ---
 
-### 🚀 Projects
-
-- **[Arca-Launcher](https://github.com/wristkyion/Arca-Launcher)**  
-  A custom Minecraft launcher built with Tauri, Vite, Rust, and TypeScript.
-
-### 🛠️ Technologies
-
-- Rust
-- TypeScript
-- Tauri
-- Vite
-- HTML & CSS
-
----
-
-*More projects and updates will be added as development continues.*
+<div align="center">
+  <i>"Small steps, meaningful progress."</i>
+</div>
