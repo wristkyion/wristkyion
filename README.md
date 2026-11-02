@@ -60,10 +60,6 @@ Still a beginner, but full of ideas. Still learning, but always ready to explore
   </a>
 </p>
 
-<p align="center">
-  <strong>─ ─ ─ ─ ─ ─ ─ ─</strong>
-</p>
-
 <table>
   <tr>
     <td width="100" align="center" valign="middle">
