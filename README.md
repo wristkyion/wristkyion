@@ -60,6 +60,34 @@ Still a beginner, but full of ideas. Still learning, but always ready to explore
   </a>
 </p>
 
+<p align="center">
+  <strong>─ ─ ─ ─ ─ ─ ─ ─</strong>
+</p>
+
+<table>
+  <tr>
+    <td width="100" align="center" valign="middle">
+      <img src="assets/arca-logo.png" width="120" alt="Arca Launcher Logo">
+    </td>
+    <td valign="middle">
+      <p>Deq (Dashboard)</p>
+      <p>
+       Deq is a minimalist, modular, and local-first desktop dashboard designed to
+        manage personal records, daily activities, finances, and projects, while bringing
+        GitHub activity and commission management into one organized workspace. Built with privacy,
+        performance, and simplicity in mind.
+      </p>
+    </td>
+  </tr>
+</table>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" alt="Tauri">
+    <a href="https://github.com/wristkyion/deq">
+    <img src="https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Explore Repository">
+  </a>
+</p>
 
 ---
 
