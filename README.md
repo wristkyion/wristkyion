@@ -38,11 +38,11 @@ Still a beginner, but full of ideas. Still learning, but always ready to explore
 
 <table>
   <tr>
-    <td width="20" align="center" valign="middle">
-      <img src="assets/arca-logo.png" width="50" alt="Arca Launcher Logo">
+    <td width="100" align="center" valign="middle">
+      <img src="assets/arca-logo.png" width="120" alt="Arca Launcher Logo">
     </td>
     <td valign="middle">
-      <h3>Arca Launcher</h3>
+      <p>Arca Launcher</p>
       <p>
         A desktop launcher built with Tauri 2, combining modern web
         technologies with native capabilities to create a practical
@@ -55,10 +55,11 @@ Still a beginner, but full of ideas. Still learning, but always ready to explore
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" alt="Tauri">
+    <a href="https://github.com/wristkyion/Arca-Launcher">
+    <img src="https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Explore Repository">
+  </a>
 </p>
-<a href="https://github.com/wristkyion/Arca-Launcher">
-  <img src="https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Explore Repository">
-</a>
+
 
 ---
 
