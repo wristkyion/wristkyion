@@ -67,7 +67,7 @@ Still a beginner, but full of ideas. Still learning, but always ready to explore
 <table>
   <tr>
     <td width="100" align="center" valign="middle">
-      <img src="assets/arca-logo.png" width="120" alt="Arca Launcher Logo">
+      <img src="assets/deq-logo.png" width="120" alt="Arca Launcher Logo">
     </td>
     <td valign="middle">
       <p>Deq (Dashboard)</p>
