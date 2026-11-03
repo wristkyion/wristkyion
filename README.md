@@ -1,5 +1,3 @@
-<img width="2000" height="990" alt="image" src="https://github.com/user-attachments/assets/0d9e75cd-7023-4969-8eef-a724633dc8b2" />
-
 # wristkyion page
 
 I'm a beginner programmer and indie developer from Indonesia, with plenty of ideas and projects I'd love to bring to life. I'm still at the beginning of my journey, learning how to turn my ideas into real, functional applications while exploring new technologies and discovering what I'm capable of creating.
