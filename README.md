@@ -58,9 +58,7 @@ Still a beginner, but full of ideas. Still learning, but always ready to explore
     <td valign="middle">
       <p>Arca Launcher</p>
       <p>
-        A desktop launcher built with Tauri 2, combining modern web
-        technologies with native capabilities to create a practical
-        desktop experience.
+        Arca Launcher is an independent project for creating and managing Minecraft instances, signing in with supported account types, and browsing game content.
       </p>
     </td>
   </tr>
