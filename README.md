@@ -15,7 +15,17 @@ Anyway, I'm still learning, still experimenting, and still making things. I may 
 S-so yeah... feel free to check out my projects! It's not like I'm showing them off or anything... Hmph. 𖦹
 
 <p align="center">
+  <br />
+  <br />
+</p>
+
+<p align="center">
 ──── ୨୧ ──────── ୨୧ ────⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹──── ୨୧ ──────── ୨୧ ────
+</p>
+
+<p align="center">
+  <br />
+  <br />
 </p>
 
 <p align="center">
@@ -73,7 +83,17 @@ S-so yeah... feel free to check out my projects! It's not like I'm showing them 
 </div>
 
 <p align="center">
+  <br />
+  <br />
+</p>
+
+<p align="center">
 ──── ୨୧ ──────── ୨୧ ────⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹──── ୨୧ ──────── ୨୧ ────
+</p>
+
+<p align="center">
+  <br />
+  <br />
 </p>
 
 <p align="center">
@@ -134,7 +154,17 @@ A local, self-hosted character chat app, similar to Character.AI. Run it on your
 </table>
 
 <p align="center">
+  <br />
+  <br />
+</p>
+
+<p align="center">
 ──── ୨୧ ──────── ୨୧ ────⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹──── ୨୧ ──────── ୨୧ ────
+</p>
+
+<p align="center">
+  <br />
+  <br />
 </p>
 
 <p align="center">
@@ -158,8 +188,19 @@ A local, self-hosted character chat app, similar to Character.AI. Run it on your
   <img src="https://raw.githubusercontent.com/wristkyion/wristkyion/snake-output/snake.svg" alt="Contribution snake animation" />
 </div>
 
+
+<p align="center">
+  <br />
+  <br />
+</p>
+
 <p align="center">
 ──── ୨୧ ──────── ୨୧ ────⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹──── ୨୧ ──────── ୨୧ ────
+</p>
+
+<p align="center">
+  <br />
+  <br />
 </p>
 
 <p align="center">
