@@ -40,7 +40,7 @@ Still a beginner, but full of ideas. Still learning, but always ready to explore
 
 ---
 
-<p align="center">
+ <p align="center">
   <strong>A collection of things I'm building and experimenting with.</strong>
 </p>
 
@@ -61,7 +61,7 @@ Still a beginner, but full of ideas. Still learning, but always ready to explore
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" alt="Tauri">
-    <a href="https://github.com/wristkyion/Arca-Launcher">
+  <a href="https://github.com/wristkyion/Arca-Launcher">
     <img src="https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Explore Repository">
   </a>
 </p>
@@ -69,15 +69,12 @@ Still a beginner, but full of ideas. Still learning, but always ready to explore
 <table>
   <tr>
     <td width="100" align="center" valign="middle">
-      <img src="assets/deq-logo.png" width="120" alt="Arca Launcher Logo">
+      <img src="assets/deq-logo.png" width="120" alt="Deq Logo">
     </td>
     <td valign="middle">
       <p>Deq (Dashboard)</p>
       <p>
-       Deq is a minimalist, modular, and local-first desktop dashboard designed to
-        manage personal records, daily activities, finances, and projects, while bringing
-        GitHub activity and commission management into one organized workspace. Built with privacy,
-        performance, and simplicity in mind.
+        Deq is a minimalist, modular, and local-first desktop dashboard designed to manage personal records, daily activities, finances, and projects, while bringing GitHub activity and commission management into one organized workspace. Built with privacy, performance, and simplicity in mind.
       </p>
     </td>
   </tr>
@@ -86,7 +83,29 @@ Still a beginner, but full of ideas. Still learning, but always ready to explore
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" alt="Tauri">
-    <a href="https://github.com/wristkyion/deq">
+  <a href="https://github.com/wristkyion/deq">
+    <img src="https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Explore Repository">
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td width="100" align="center" valign="middle">
+      <!-- Akeru logo coming soon -->
+    </td>
+    <td valign="middle">
+      <p>Akeru</p>
+      <p>
+        Akeru is a local, self-hosted AI character chat platform inspired by Character.AI. It allows users to create characters and interact with them using local AI models or external API providers, with support for multiple users, private conversations, and customizable model providers. Built to give users more control over their own AI chat experience.
+      </p>
+    </td>
+  </tr>
+</table>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm">
+  <a href="https://github.com/wristkyion/akeru">
     <img src="https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Explore Repository">
   </a>
 </p>
