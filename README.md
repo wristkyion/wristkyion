@@ -1,5 +1,9 @@
 # wristkyion page ᰍ ݃ ݁ᣟ݂
 
+<a href="https://wristkyion.github.io/index.html" target="_blank">
+	<img align="right" width="400" alt="" src="https://media.tenor.com/RoliSzj9RpwAAAAj/meowbah-meowbahh.gif" />
+</a>
+
 I'm a beginner programmer and indie developer from Indonesia. A-and before you say anything, being a beginner doesn't mean I can't code! I just... have a lot more to learn, okay? I have plenty of ideas and projects I'd love to bring to life, and I'm doing my best to turn those ideas into something real.
 
 I'm mostly interested in programming and software development, but that's not all! I also enjoy animation, video editing, graphic design, and digital art. N-not that I'm an expert or anything... I'm just someone who likes creating things and experimenting with different creative fields!
@@ -11,7 +15,7 @@ Anyway, I'm still learning, still experimenting, and still making things. I may 
 S-so yeah... feel free to check out my projects! It's not like I'm showing them off or anything... Hmph. 𖦹
 
 <p align="center">
-︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵
+──── ୨୧ ──────── ୨୧ ────⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹──── ୨୧ ──────── ୨୧ ────
 </p>
 
 <p align="center">
@@ -69,16 +73,21 @@ S-so yeah... feel free to check out my projects! It's not like I'm showing them 
 </div>
 
 <p align="center">
-︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵
+──── ୨୧ ──────── ୨୧ ────⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹──── ୨୧ ──────── ୨୧ ────
 </p>
 
- <p align="center">
+<p align="center">
   <strong>A collection of things I'm building and experimenting with.</strong>
 </p>
 
-<img src="assets/arca-logo.png" width="100" align="left"/>
+<table>
+<tr>
+<td width="90" align="center">
+<img src="assets/arca-logo.png" width="80" />
+</td>
+<td>
 
-### Arca Launcher
+**Arca Launcher**
 A custom Minecraft launcher built with Tauri, Rust, React, and TypeScript.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -86,11 +95,16 @@ A custom Minecraft launcher built with Tauri, Rust, React, and TypeScript.
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
 [![Explore Repository](https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wristkyion/Arca-Launcher)
 
-<br clear="left"/>
+</td>
+</tr>
+<tr><td colspan="2" height="10"></td></tr>
+<tr>
+<td width="90" align="center">
+<img src="assets/deq-logo.png" width="80" />
+</td>
+<td>
 
-<img src="assets/deq-logo.png" width="100" align="left"/>
-
-### Deq (Dashboard)
+**Deq (Dashboard)**
 A minimalist, local-first desktop dashboard for personal stats, projects, and more.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -98,11 +112,16 @@ A minimalist, local-first desktop dashboard for personal stats, projects, and mo
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
 [![Explore Repository](https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wristkyion/deq)
 
-<br clear="left"/>
+</td>
+</tr>
+<tr><td colspan="2" height="10"></td></tr>
+<tr>
+<td width="90" align="center">
+<img src="assets/deq-logo.png" width="80" />
+</td>
+<td>
 
-<img src="assets/deq-logo.png" width="100" align="left"/>
-
-### Akeru
+**Akeru**
 A local, self-hosted character chat app, similar to Character.AI. Run it on your own PC.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -110,10 +129,12 @@ A local, self-hosted character chat app, similar to Character.AI. Run it on your
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 [![Explore Repository](https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wristkyion/akeru)
 
-<br clear="left"/>
+</td>
+</tr>
+</table>
 
 <p align="center">
-︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵
+──── ୨୧ ──────── ୨୧ ────⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹──── ୨୧ ──────── ୨୧ ────
 </p>
 
 <p align="center">
@@ -138,7 +159,7 @@ A local, self-hosted character chat app, similar to Character.AI. Run it on your
 </div>
 
 <p align="center">
-︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵
+──── ୨୧ ──────── ୨୧ ────⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹──── ୨୧ ──────── ୨୧ ────
 </p>
 
 <p align="center">
