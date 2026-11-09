@@ -164,7 +164,7 @@ A local, self-hosted character chat app, similar to Character.AI. Run it on your
 <td>
 
 **Yomiki-manga-reader**
-A desktop manga library and reader for organizing and enjoying your local manga collection. Import manga from folders or archives, track your reading progress, manage bookmarks, and customize your reading experience.
+A desktop manga library and reader built with Vite + Tauri.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
