@@ -113,6 +113,8 @@ A custom Minecraft launcher built with Tauri, Rust, React, and TypeScript.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Explore Repository](https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wristkyion/Arca-Launcher)
 
 </td>
@@ -130,6 +132,8 @@ A minimalist, local-first desktop dashboard for personal stats, projects, and mo
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Explore Repository](https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wristkyion/deq)
 
 </td>
