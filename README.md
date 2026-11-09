@@ -151,7 +151,31 @@ A local, self-hosted character chat app, similar to Character.AI. Run it on your
 
 </td>
 </tr>
+</tr>
+<tr><td colspan="2" height="10"></td></tr>
+<tr>
+<td width="90" align="center">
+<img src="assets/deq-logo.png" width="80" />
+</td>
+<td>
+
+**Yomiki-manga-reader**
+A desktop manga library and reader for organizing and enjoying your local manga collection. Import manga from folders or archives, track your reading progress, manage bookmarks, and customize your reading experience.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+[![Explore Repository](https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wristkyion/yomiki-manga-reader)
+
+</td>
+</tr>
 </table>
+
+
 
 <p align="center">
   <br />
