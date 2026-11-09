@@ -1,7 +1,7 @@
 # wristkyion page ᰍ ݃ ݁ᣟ݂
 
 <a href="https://wristkyion.github.io/index.html" target="_blank">
-	<img align="right" width="400" alt="" src="https://media.tenor.com/RoliSzj9RpwAAAAj/meowbah-meowbahh.gif" />
+	<img align="right" width="300" alt="" src="https://media.tenor.com/RoliSzj9RpwAAAAj/meowbah-meowbahh.gif" />
 </a>
 
 I'm a beginner programmer and indie developer from Indonesia. A-and before you say anything, being a beginner doesn't mean I can't code! I just... have a lot more to learn, okay? I have plenty of ideas and projects I'd love to bring to life, and I'm doing my best to turn those ideas into something real.
