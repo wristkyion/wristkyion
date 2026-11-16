@@ -75,10 +75,17 @@ S-so yeah... feel free to check out my projects! It's not like I'm showing them 
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="50" alt="Visual Studio" />
 
-  <p><strong>Environment .ᐟ</strong></p>
+  <p><strong>Operating Systems .ᐟ</strong></p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="50" alt="Windows" />
+  <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
+
+  <p><strong>Shells .ᐟ</strong></p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="Bash" />
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="50" alt="PowerShell" />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/terminal.svg" height="50" alt="CMD" />
 
 </div>
 
