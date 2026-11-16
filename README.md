@@ -100,6 +100,8 @@ S-so yeah... feel free to check out my projects! It's not like I'm showing them 
   <strong>A collection of things I'm building and experimenting with.</strong>
 </p>
 
+<div align="center">
+
 <table>
 <tr>
 <td width="90" align="center">
@@ -178,6 +180,8 @@ A desktop manga library and reader built with Vite + Tauri.
 </td>
 </tr>
 </table>
+
+</div> 
 
 
 
