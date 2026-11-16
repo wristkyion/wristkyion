@@ -196,24 +196,27 @@ A desktop manga library and reader built with Vite + Tauri.
 </p>
 
 <p align="center">
-  <strong>GitHub Activity</strong>
+  <strong>Total visitor</strong>
 </p>
 
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/wristkyion/Moe-Counter/master/commit-counter.svg"
-    alt="GitHub Commit Counter"
-  />
-</div>
+  
+![Visitors](https://count.getloli.com/@wristkyion?theme=rule34&padding=6&offset=-9&align=top&scale=1.2&pixelated=0&darkmode=0)
+
+</div> 
+
+<p align="center">
+  <br />
+  <br />
+</p>
+
+<p align="center">
+  <strong>Github statistics</strong>
+</p>
 
 <div data-importer="stats" align="center">
-  <img src="./profile/stats.svg" height="150" alt="GitHub statistics" />
   <img src="https://raw.githubusercontent.com/wristkyion/wristkyion/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=wristkyion&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/wristkyion/wristkyion/snake-output/snake.svg" alt="Contribution snake animation" />
 </div>
 
 
@@ -225,6 +228,7 @@ A desktop manga library and reader built with Vite + Tauri.
 <p align="center">
 ──── ୨୧ ──────── ୨୧ ────⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹──── ୨୧ ──────── ୨୧ ────
 </p>
+
 
 <p align="center">
   <br />
