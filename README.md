@@ -4,15 +4,15 @@
 	<img align="right" width="400" alt="" src="assets/pic.jpg" />
 </a>
 
-I'm a beginner programmer and indie developer from Indonesia. A-and before you say anything, being a beginner doesn't mean I can't code! I just... have a lot more to learn, okay? I have plenty of ideas and projects I'd love to bring to life, and I'm doing my best to turn those ideas into something real.
+I'm a beginner programmer and indie developer from Indonesia. I enjoy building things, exploring new ideas, and learning more about software development. There's still a lot I don't know, but I'm slowly finding my way through it.
 
-I'm mostly interested in programming and software development, but that's not all! I also enjoy animation, video editing, graphic design, and digital art. N-not that I'm an expert or anything... I'm just someone who likes creating things and experimenting with different creative fields!
+I'm mostly interested in programming and software development, though I also enjoy animation, video editing, graphic design, and digital art. I like experimenting with different creative fields whenever I find something interesting.
 
-I enjoy exploring new technologies, learning unfamiliar things, and occasionally challenging myself with projects that might be a little too ambitious. Sometimes things work, sometimes they don't... b-but that's part of the process, right?
+I enjoy exploring new technologies, learning unfamiliar things, and working on small projects that sometimes grow into something bigger. There's always something new to discover, and I suppose that's what makes this journey interesting.
 
-Anyway, I'm still learning, still experimenting, and still making things. I may be a beginner, but I have no intention of letting that stop me!
+I'm still learning, still experimenting, and quietly working on the things I enjoy.
 
-S-so yeah... feel free to check out my projects! It's not like I'm showing them off or anything... Hmph. 𖦹
+Feel free to take a look around. I hope you find something interesting here. 𖦹
 
 <p align="center">
   <br />
@@ -247,7 +247,7 @@ A desktop manga library and reader built with Vite + Tauri.
 </p>
 
 <p align="center">
-  <i>"I-It's not like I wanted you to visit... b-but thanks anyway!"</i>
+  <i>""Oh... you made it all the way here. Thank you for visiting.""</i>
   <br />
-  𖦹 Made with curiosity, creativity, and a little bit of stubbornness.
+  𖦹 Made with curiosity, little ideas, and a quiet passion for creating.
 </p>
